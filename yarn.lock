@@ -69,9 +69,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@daldalso/tailwind-base@workspace:.":
+"@devheerim/tailwind-base@workspace:.":
   version: 0.0.0-use.local
-  resolution: "@daldalso/tailwind-base@workspace:."
+  resolution: "@devheerim/tailwind-base@workspace:."
   dependencies:
     "@daldalso/eslint-plugin": "npm:^1.2.3"
     "@daldalso/logger": "npm:^0.9.3-0"
