@@ -14,3 +14,5 @@ export default function c(...args:CValue[]):string{
   }
   return tailwindBase.merge(...args);
 }
+
+export { type CValue } from "../react.js";
