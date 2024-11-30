@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "@devheerim/tailwind-base",
-  "version": "0.9.3-1",
+  "version": "0.9.3-2",
   "description": "Let you exploit Tailwind in React more powerful (forked from @daldalso/tailwind-base)",
   "repository": {
     "url": "git+https://github.com/devheerim/tailwind-base.git"
